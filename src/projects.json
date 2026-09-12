@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Get to Know Me",
+        "description": "A personal introductory website created to present information about myself using HTML, CSS, and JavaScript.",
+        "siteLink": "https://michael-mihailov.github.io/CPSC44000-get-to-know-me/",
+        "githubLink": "https://github.com/Michael-Mihailov/CPSC44000-get-to-know-me"
+    },
+    {
+        "name": "Lions, Tigers & Bears",
+        "description": "A JavaScript web application that uses an external API to retrieve and display animal-related information.",
+        "siteLink": "https://black-mushroom-0af706810.6.azurestaticapps.net/",
+        "githubLink": "https://github.com/Michael-Mihailov/CPSC44000-lions-tigers-bears"
+    }
+]
