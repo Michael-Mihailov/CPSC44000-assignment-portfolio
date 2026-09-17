@@ -10,5 +10,17 @@
         "description": "A JavaScript web application that uses an external API to retrieve and display animal-related information.",
         "siteLink": "https://black-mushroom-0af706810.6.azurestaticapps.net/",
         "githubLink": "https://github.com/Michael-Mihailov/CPSC44000-lions-tigers-bears"
+    },
+    {
+        "name": "CPSC44000 Web Resume",
+        "description": "A web-based resume created for CPSC44000 that presents my qualifications, technical skills, education, projects, research experience, and other professional information using HTML, CSS, and Bootstrap. A printable PDF version of the resume is also included.",
+        "site-link": "https://brave-tree-050ea6210.3.azurestaticapps.net/",
+        "github-link": "https://github.com/Michael-Mihailov/CPSC44000-web-resume"
+    },
+    {
+        "name": "Web Dice Roller",
+        "description": "A web-based dice roller created for CPSC44000 that simulates rolling five six-sided dice for the game of Yahtzee. The application automatically rolls the dice when the page loads and allows the user to roll all five dice again using a button or the Enter key.",
+        "site-link": "https://thankful-pebble-0288ff010.3.azurestaticapps.net/",
+        "github-link": "https://github.com/Michael-Mihailov/CPSC44000-web-dice-roller"
     }
 ]
